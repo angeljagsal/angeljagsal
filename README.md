@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angel Aguilar</h1>
+<h2 align="center">Hello! I'm Angel Aguilar</h2>
 <p align="left">
 </p>
 
