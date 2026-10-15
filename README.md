@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Angel Aguilar</h1>
 
 <p align="center">
-  Software developer who builds web and desktop apps and uses AI to ship faster.
+  Software Engineer who builds digital solutions and uses AI to ship faster.
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ## 👨‍💻 About me
 
-- 🔭 I'm working on: <!-- add your current project here -->
+- 🔭 I'm working on: Digital Solutions
 - 🌱 I'm learning: building apps with LLM APIs, agents and prompt design
 - 💬 Ask me about: C#, .NET, JavaScript, Node.js, databases
-- 📫 Reach me: <!-- add email or LinkedIn -->
+- 📫 Reach me: angeljagsal@gmail.com
 
 ---
 
